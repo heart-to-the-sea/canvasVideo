@@ -1,0 +1,28 @@
+{
+  "name": "canvasvideo",
+  "version": "1.0.0",
+  "description": "canvasVideo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luslus/canvasVideo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luslus/canvasVideo/issues"
+  },
+  "homepage": "https://github.com/luslus/canvasVideo#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "@types/webpack-dev-server": "^4.5.0",
+    "html-webpack-plugin": "^5.5.0",
+    "typescript": "^4.5.3",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
+}
